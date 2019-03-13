@@ -1,1 +1,1 @@
-Fork of conda-forge ffmpeg-feedtock repo but compiled with OpenSSL instead of GNU-TLS
+Fork of conda-forge ffmpeg-feedtock repo but compiled with OpenSSL instead of GNU-TLS, according to the instructions [here](https://github.com/conda-forge/ffmpeg-feedstock/issues/68#issuecomment-444049074).
